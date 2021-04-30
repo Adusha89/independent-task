@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/media/andrew/6C2CB05E2CB0254C/Практика С++/Баланс фигурных скобок в файле/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -g -o CMakeFiles/TTT.dir/main.cpp.o -c \"/media/andrew/6C2CB05E2CB0254C/Практика С++/Баланс фигурных скобок в файле/main.cpp\"",
+  "file": "/media/andrew/6C2CB05E2CB0254C/Практика С++/Баланс фигурных скобок в файле/main.cpp"
+},
+{
+  "directory": "/media/andrew/6C2CB05E2CB0254C/Практика С++/Баланс фигурных скобок в файле/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -g -o CMakeFiles/TTT.dir/myLib.cpp.o -c \"/media/andrew/6C2CB05E2CB0254C/Практика С++/Баланс фигурных скобок в файле/myLib.cpp\"",
+  "file": "/media/andrew/6C2CB05E2CB0254C/Практика С++/Баланс фигурных скобок в файле/myLib.cpp"
+}
+]
