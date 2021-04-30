@@ -13,5 +13,7 @@ int main()
     readSymbol(fout, arr);
     if(!checkBalance(arr)) std::cout << "Balance OK!\n";
     else std::cout << "Not Balance!\n";
+    delete [] arr;
+    fout.close();
     return 0;
 }
